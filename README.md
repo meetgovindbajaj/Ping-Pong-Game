@@ -30,12 +30,12 @@ Language Used : Java (Project is build on Java Swing Library)
 
 ### How to run?
 
-- Download the [ setup file ⬇️](https://github.com/meetgovindbajaj/PingPong-Game/blob/main/setup.exe) and run the setup file.
+- Download the [ setup file ⬇️](https://github.com/meetgovindbajaj/Ping-Pong-Game/blob/main/setup.exe) and run the setup file.
 
 ### Some Screenshots of the game
 
 - Starting Screen
-- ![Screenshot 2023-06-24 162416](https://github.com/meetgovindbajaj/PingPong-Game/assets/117599205/2ee9202a-ed2f-432b-9da2-1107ed8cbb3d)
+- ![Screenshot 2023-06-24 162416](https://github.com/meetgovindbajaj/Ping-Pong-Game/assets/117599205/2ee9202a-ed2f-432b-9da2-1107ed8cbb3d)
 
 - Middle of the game
-- ![Screenshot 2023-06-24 162441](https://github.com/meetgovindbajaj/PingPong-Game/assets/117599205/0a4e47fd-88ef-46c4-9036-35de37373e04)
+- ![Screenshot 2023-06-24 162441](https://github.com/meetgovindbajaj/Ping-Pong-Game/assets/117599205/0a4e47fd-88ef-46c4-9036-35de37373e04)
