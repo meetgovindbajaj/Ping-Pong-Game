@@ -30,7 +30,7 @@ Language Used : Java (Project is build on Java Swing Library)
 
 ### How to run?
 
-- Download the [ setup file ⬇️](https://github.com/meetgovindbajaj/Ping-Pong-Game/blob/main/setup.exe) and run the setup file.
+- Download the [ setup file ⬇️](https://github.com/meetgovindbajaj/PingPong-Game/blob/main/setup.exe) and run the setup file.
 
 ### Some Screenshots of the game
 
